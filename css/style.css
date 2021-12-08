@@ -54,13 +54,13 @@ h1 {
 
 .content {
     background-color: rgba(41, 27, 167, 0.72);
-    /* height: 600px; */
+    /* height: 500px; */
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 10px;
     margin-bottom: auto;
     padding-bottom: 20px;
-    box-shadow: 2px 2px #000000;
+    box-shadow: 2px 2px brown;
     border-radius: 0.5%;
 }
 
