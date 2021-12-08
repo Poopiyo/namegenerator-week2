@@ -55,7 +55,7 @@ function getAkanName() {
 
     //creating arrays of Akan names for males and females
     var maleAkanNames = [
-        "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Kwaku", "Yaw", "Kofi", "Kwame"
+        "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"
     ];
 
     var femaleAkanNames = [
@@ -153,9 +153,9 @@ function getAkanName() {
                 return false;
                 break;
             default:
-                alert("mmh no Akan name for you");
+                alert("No name for you");
         }
     } else {
-        alert("You entered invalid month or day");
+        alert("Invalid month or day");
     }
 }
